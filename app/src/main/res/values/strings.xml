@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">FTC Scouting Companion</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">I am a magic cow.</string>
     <string name="action_settings">Settings</string>
 
 </resources>
